@@ -164,12 +164,6 @@ a:hover {
     max-width: 36rem;
     font-size: 18px;
     padding-top: 5px;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    flex-direction: row;
-    flex: 1 1 0%;
-    -webkit-box-pack: start;
-   
 }
 .content__social-item {
     display: flex;
