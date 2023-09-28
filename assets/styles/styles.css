@@ -168,6 +168,7 @@ a:hover {
 .content__social-item {
     display: flex;
     align-items: center;
+    margin-right: 20px;
 }
 .content__social-item img {
     width: 22px;
